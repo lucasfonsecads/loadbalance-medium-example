@@ -13,15 +13,15 @@ This project demonstrates a simple load balancer using Python's built-in librari
 .
 ├── Makefile
 ├── README.md
+├── client
+│   └── client.py
+├── load_balancer
+│   └── load_balancer.py
 ├── requirements.txt
 ├── server1
-│   └── server1.py
-├── server2
-│   └── server2.py
-├── load_balancer
-│   └── load_balancer.py
-└── client
-    └── client.py
+│   └── server1.py
+└── server2
+    └── server2.py
 
 
 ## Requirements
